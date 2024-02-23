@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment files
+env/
+*.yaml
+!environment.yml  # Include this to allow environment cloning
+
+# OS files
+.DS_Store
+Thumbs.db
+
