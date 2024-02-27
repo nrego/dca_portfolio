@@ -1,0 +1,15 @@
+
+
+Usage
+
+if using python w/ anaconda, do:
+
+conda env create -f environment.yml
+conda activate dca_portfolio
+
+
+Then:
+
+-launch jupyter notebook and open the notebook "dca_portfolio.ipynb"
+
+-Run all cells in the notebook, then fill out the GUI to simulate.
