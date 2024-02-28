@@ -9,10 +9,10 @@ The tool is designed to work with Anaconda's Python 3.x distribution for ease of
 1. Download the latest version of the code from [GitHub](https://github.com/nrego/dca_portfolio/).
 2. From the root directory of the project, create and activate a custom Python Conda environment using the provided "environment.yaml" file:
 
-\```bash
+```bash
 conda env create -f environment.yaml
 conda activate dca_portfolio
-\```
+```
 
 3. (Optional) Create a Jupyter Notebook kernel named "dca_portfolio":
 
