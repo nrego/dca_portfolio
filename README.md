@@ -5,6 +5,11 @@ Adapted by NBR, 02/28/2024
 ## Overview
 This tool provides a comprehensive simulation of a Dollar-Cost Averaging (DCA) investment strategy, allowing for backtesting against historical stock data. Users can test strategies based on investing a fixed amount into the 'k' lowest-performing stocks over a defined lookback period. Features include adjustable lookback and investment cadence periods, and the ability to specify overweight/underweight investment allocations.
 
+## Files
+- dca_portfolio.ipynb : Main Jupyter Notebook - Run this to execute DCA simulations
+- Copy_of_dcs_portfolio.ipynb : Initial version of code, for reference (note - this code is broken)
+- ./sample_stocks/ : Directory containing text files with sample stock universes
+
 ## Installation
 The tool is designed to work with Anaconda's Python 3.x distribution for ease of use and installation:
 
